@@ -1,0 +1,15 @@
+PDF (extention only, not really a PDF)
+shell archive (first actual type)
+ar archive
+cpio
+bzip2
+gzip
+lzip
+lz4
+lzma
+lzop
+lzip
+xz
+ASCII (hex)
+cat flag | xxd -r -p
+
