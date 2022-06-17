@@ -1,0 +1,2 @@
+Tried python script from substitution0 - no luck.
+Used quipqiup and it decoded well.
