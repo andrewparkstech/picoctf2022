@@ -1,0 +1,1 @@
+For this morse code challenge, I thought about manually decoding by listening to the audio and referring to a chart, however I figured there were probably existing tools to decode a morse audio file. I researched a couple of different tools for this, and found morse2ascii which worked very well.

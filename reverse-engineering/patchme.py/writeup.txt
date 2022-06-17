@@ -1,0 +1,1 @@
+I looked at the python script and saw that it checks for a password that is in plaintext. We could run the script and enter that password. I chose to comment out the password check and run the script. That way it just outputs the flag.

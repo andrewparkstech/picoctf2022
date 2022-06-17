@@ -1,0 +1,1 @@
+For packet primer, I knew we would be working with wireshark as I have been exposed to it before. First I used the GUI to open up the pcap file and look thru it. I quickly found the flag in the Data field of the TCP / PSH packet. I knew there must be a way to do this on command line as well, so I found tshark for this.

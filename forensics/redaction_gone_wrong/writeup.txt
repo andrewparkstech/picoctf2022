@@ -1,0 +1,1 @@
+Flag is in the PDF in plaintext, just highlight the text to see it (Ctrl+A). The other way is to use pdftotext to convert the PDF to text format and then grep the flag out.
