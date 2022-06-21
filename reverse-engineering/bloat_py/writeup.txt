@@ -1,0 +1,1 @@
+modified the python script to comment out the part that prompts for and checks the password, so now it just outputs the flag
