@@ -1,0 +1,1 @@
+Used jd-gui to read the java code which contained the flag in plaintext, although broken up. 
